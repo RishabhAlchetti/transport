@@ -200,6 +200,7 @@ For support and questions:
 - [ ] Real AI API integrations (OpenAI, Anthropic, Google)
 - [ ] Chat history persistence
 - [ ] Export chat conversations
+- [ ] rishabh
 - [ ] Custom model configuration
 - [ ] Voice input/output
 - [ ] File upload support
